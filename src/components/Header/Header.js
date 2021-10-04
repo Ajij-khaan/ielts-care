@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 
 const Header = () => {
     return (
-        <div className="container d-flex">
+        <div className="container d-flex py-4">
             <div>
                 <Image src="http://www.thetahmid.com/themes/edulyn-v1.0/assets/images/logo.png" />
             </div>

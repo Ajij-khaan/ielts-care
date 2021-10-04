@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "IELS Online Regular COurse",
+        "duration": "3 Months",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.",
+        "image": "https://img-premium.flaticon.com/png/512/3145/premium/3145816.png?token=exp=1633364303~hmac=1283c2fcfd9657c1b431abd725416887"
+    },
+    {
+        "id": 2,
+        "title": "IELS Online Regular COurse",
+        "duration": "3 Months",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.",
+        "image": "faGraduationCap"
+    },
+    {
+        "id": 3,
+        "title": "IELS Online Regular COurse",
+        "duration": "3 Months",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.",
+        "image": "faUserGraduate"
+    },
+    {
+        "id": 4,
+        "title": "IELS Online Regular COurse",
+        "duration": "3 Months",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.",
+        "image": "faPencilRuler"
+    }
+]
