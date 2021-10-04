@@ -1,30 +1,30 @@
 [
     {
         "id": 1,
-        "title": "IELS Online Regular COurse",
+        "title": "IELTS Online Regular Course",
         "duration": "3 Months",
-        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.",
-        "image": "https://cdn-icons-png.flaticon.com/512/1170/1170221.png"
+        "description": "The IELTS course puts equal weight on reading writing, listening, speaking and test taking strategies. The course also covers sub skills such as academic vocabulary, academic style and study skills each day. ... If the student places at Level 4 they are eligible for IELTS.",
+        "image": "https://cdn-icons-png.flaticon.com/512/747/747327.png"
     },
     {
         "id": 2,
-        "title": "IELS Online Regular COurse",
+        "title": "IELTS With Foundation (Online)",
+        "duration": "3 Months",
+        "description": "This course is designed for intermediate English students who are aiming for an IELTS score of 6.0 or higher to help gain access to university or college, or to improve employment prospects - in Australia, or in other English-speaking countries throughout the world.",
+        "image": "https://cdn-icons-png.flaticon.com/512/45/45107.png"
+    },
+    {
+        "id": 3,
+        "title": "IELTS Writing Course (Online)",
         "duration": "3 Months",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.",
         "image": "https://cdn-icons-png.flaticon.com/512/684/684831.png"
     },
     {
-        "id": 3,
-        "title": "IELS Online Regular COurse",
-        "duration": "3 Months",
-        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.",
-        "image": "https://cdn-icons-png.flaticon.com/512/16/16941.png"
-    },
-    {
         "id": 4,
-        "title": "IELS Online Regular COurse",
+        "title": "IELTS Reading Course (Online)",
         "duration": "3 Months",
-        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.",
-        "image": "https://img-premium.flaticon.com/png/512/1357/premium/1357748.png?token=exp=1633364640~hmac=238347d0e7bfa138bad2fca407711a68"
+        "description": "This course focuses on the reading test. You’ll explore the format of the test and the kinds of text you need to read, and develop learning strategies to help you tackle the different task types, from multiple choice to true, false, and not given.",
+        "image": "https://cdn-icons-png.flaticon.com/512/171/171322.png"
     }
 ]

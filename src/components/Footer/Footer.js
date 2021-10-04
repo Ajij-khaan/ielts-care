@@ -5,9 +5,9 @@ import { Link } from 'react-router-dom';
 const Footer = () => {
     return (
         <div>
-            <div className="bg-dark py-3">
+            <div className="bg-dark py-3 mt-5">
                 <Row>
-                    <Col className="">
+                    <Col>
                         <img src="https://web.programming-hero.com/static/media/ssl-commerce.1d268dce.png" />
                     </Col>
                     <Col className="d-flex align-items-center justify-content-center ">
