@@ -36,16 +36,16 @@ const Home = () => {
                 </Container>
             </div>
 
+            <div>
+                <p className="text-center mt-5 pb-3 text-primary fs-1 text fw-bold">SERVICES</p>
+            </div>
+
             <div className="container">
-
-
                 <Row xs={1} md={2} className="g-4">
                     {
                         data.map(service => <ServiceCard service={service}></ServiceCard>)
                     }
                 </Row>
-
-
             </div>
 
 

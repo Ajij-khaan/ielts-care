@@ -1,5 +1,6 @@
 import React from 'react';
-import { Card, CardGroup, Col } from 'react-bootstrap';
+import { Card } from 'react-bootstrap';
+import './ServiceCard.css'
 
 const ServiceCard = (props) => {
 
@@ -7,17 +8,18 @@ const ServiceCard = (props) => {
 
     return (
         <div>
-            <Card>
-                <Card.Img variant="top" src="holder.js/100px160" />
-                <i className={image}></i>
+            <Card className="border border-1 border-primary">
+                <div className="text-center pt-3">
+                    <Card.Img variant="top" src={image} className="imgSize" />
+                </div>
                 <Card.Body>
-                    <Card.Title>{title}}</Card.Title>
+                    <Card.Title className="mt-3">{title}}</Card.Title>
                     <Card.Text>
                         {description}
                     </Card.Text>
                 </Card.Body>
                 <Card.Footer>
-                    <small className="text-muted">{duration}</small>
+                    <small className="text-dark">Course Duration: {duration}</small>
                 </Card.Footer>
             </Card>
 
