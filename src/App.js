@@ -48,7 +48,7 @@ function App() {
             <ComingSoon></ComingSoon>
           </Route>
 
-          <Route path="*">
+          <Route path="/*">
             <Error404></Error404>
           </Route>
 

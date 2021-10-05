@@ -1,7 +1,7 @@
 # IELTS Care
 
 This IELTS Care. A modern IELTS Coaching Platform.  
-Live Site: [IELTS Care](https://github.com/facebook/create-react-app).  
+Live Site: [IELTS Care](https://ielts-care.netlify.app/).  
 
 ## This Website's Included: 
 
