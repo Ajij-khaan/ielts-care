@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import { Row, } from 'react-bootstrap';
+import Benefits from '../Benefits/Benefits';
 import HeaderBanner from '../HeaderBanner/HeaderBanner';
 import ServiceCard from '../ServiceCard/ServiceCard';
-import './Home.css'
+
 
 const Home = () => {
 
@@ -16,16 +17,18 @@ const Home = () => {
 
     const data2 = data.slice(0, 4);
 
-    const headerImage = "http://www.thetahmid.com/themes/edulyn-v1.0/assets/images/about-2.jpg";
+    const headerImage = "https://image.freepik.com/free-photo/male-teacher-doing-english-lesson-online-his-students_23-2148963021.jpg";
+
+    const benefitImage = "https://img.freepik.com/free-photo/teacher-doing-english-lesson-online_23-2148963005.jpg?size=626&ext=jpg";
 
     return (
         <div>
-            <div className="bg-light py-5">
+            <div className="bg-light d-flex justify-content-center align-items-center py-5">
                 <HeaderBanner headerImage={headerImage}></HeaderBanner>
             </div>
 
             <div>
-                <p className="text-center mt-5 pb-3 text-primary fs-1 text fw-bold">SERVICES</p>
+                <p className="text-center mt-4 pb-3 text-primary fs-1 text fw-bold">SERVICES</p>
             </div>
 
             <div className="container">
@@ -36,6 +39,9 @@ const Home = () => {
                 </Row>
             </div>
 
+            <div>
+                <Benefits benefitImage={benefitImage}></Benefits>
+            </div>
 
         </div >
     );

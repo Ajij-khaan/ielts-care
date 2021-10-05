@@ -1,13 +1,15 @@
 import React from 'react';
-import { Col, Row } from 'react-bootstrap';
+import { Col, Container, Row } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
+import './Footer.css'
 
 const Footer = () => {
     return (
-        <div>
-            <div className="bg-dark py-3 mt-5">
+        <div className="bg-dark py-3 mt-5">
+            <Container>
+
                 <Row>
-                    <Col>
+                    <Col className="imgSize">
                         <img src="https://web.programming-hero.com/static/media/ssl-commerce.1d268dce.png" alt="" />
                     </Col>
                     <Col className="d-flex align-items-center justify-content-center ">
@@ -19,11 +21,10 @@ const Footer = () => {
                             <Link to="/contact" className="text-white d-block text-decoration-none">Contact Us</Link>
                         </div>
                     </Col>
-
                 </Row>
-
                 <p className="text-white">© 2017-2020 IELTS Care</p>
-            </div>
+
+            </Container>
         </div>
     );
 };

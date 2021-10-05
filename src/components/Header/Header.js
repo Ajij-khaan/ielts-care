@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 
 const Header = () => {
     return (
-        <div className="container d-flex py-5">
+        <div className="container d-flex pt-4">
             <div className="logo" >
                 <p className="fs-1 text fw-bold text-primary">IELTS CARE</p>
             </div>

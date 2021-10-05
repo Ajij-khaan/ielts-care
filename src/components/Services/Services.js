@@ -17,7 +17,7 @@ const Services = () => {
     return (
         <div>
             <div>
-                <p className="text-center mt-5 pb-3 text-primary fs-1 text fw-bold">ALL SERVICES</p>
+                <p className="text-center mt-4 pb-3 text-primary fs-1 text fw-bold">ALL SERVICES</p>
             </div>
 
             <div className="container">
