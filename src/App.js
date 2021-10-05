@@ -7,8 +7,9 @@ import Services from './components/Services/Services';
 import Contact from './components/Contact/Contact';
 import About from './components/About/About';
 import Footer from './components/Footer/Footer';
-import ComingSoon from './components/CommingSoon/ComingSoon';
 import Blogs from './components/Blogs/Blogs';
+import Error404 from './components/Error404/Error404';
+import ComingSoon from './components/CommingSoon/ComingSoon';
 
 
 function App() {
@@ -39,13 +40,17 @@ function App() {
             <Contact></Contact>
           </Route>
 
-          <Route path="/coming-soon">
+          <Route path="/comingSoon">
             <ComingSoon></ComingSoon>
           </Route>
 
+          <Route path="*">
+            <Error404></Error404>
+          </Route>
+
+
         </Switch>
         <Footer></Footer>
-
       </BrowserRouter>
     </div>
   );

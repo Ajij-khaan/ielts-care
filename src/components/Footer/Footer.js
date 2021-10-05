@@ -12,11 +12,11 @@ const Footer = () => {
                     </Col>
                     <Col className="d-flex align-items-center justify-content-center ">
                         <div >
-                            <Link to="/coming-soon" className="text-white d-block text-decoration-none">Course Details</Link>
-                            <Link href="/coming-soon" className="text-white d-block text-decoration-none">Blogs</Link>
-                            <Link href="/coming-soon" className="text-white d-block text-decoration-none">Privacy Policy</Link>
-                            <Link href="/coming-soon" className="text-white d-block text-decoration-none">Career</Link>
-                            <Link href="/coming-soon" className="text-white d-block text-decoration-none">Contact Us</Link>
+                            <Link to="/comingSoon" className="text-white d-block text-decoration-none">Course Details</Link>
+                            <Link to="/blogs" className="text-white d-block text-decoration-none">Blogs</Link>
+                            <Link to="/comingSoon" className="text-white d-block text-decoration-none">Privacy Policy</Link>
+                            <Link to="/comingSoon" className="text-white d-block text-decoration-none">Career</Link>
+                            <Link to="/contact" className="text-white d-block text-decoration-none">Contact Us</Link>
                         </div>
                     </Col>
 

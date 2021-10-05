@@ -9,28 +9,28 @@
     {
         "id": 2,
         "title": "IELTS With Foundation (Online)",
-        "duration": "3 Months",
+        "duration": "2 Months",
         "description": "This course is designed for intermediate English students who are aiming for an IELTS score of 6.0 or higher to help gain access to university or college, or to improve employment prospects - in Australia, or in other English-speaking countries throughout the world.",
         "image": "https://cdn-icons-png.flaticon.com/512/45/45107.png"
     },
     {
         "id": 3,
         "title": "IELTS Writing Course (Online)",
-        "duration": "3 Months",
+        "duration": "2 Months",
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.",
         "image": "https://cdn-icons-png.flaticon.com/512/684/684831.png"
     },
     {
         "id": 4,
         "title": "IELTS Reading Course (Online)",
-        "duration": "3 Months",
+        "duration": "2 Months",
         "description": "This course focuses on the reading test. You’ll explore the format of the test and the kinds of text you need to read, and develop learning strategies to help you tackle the different task types, from multiple choice to true, false, and not given.",
         "image": "https://cdn-icons-png.flaticon.com/512/171/171322.png"
     },
     {
         "id": 5,
         "title": "IELTS Crash Course (Offline)",
-        "duration": "3 Months",
+        "duration": "5 Months",
         "description": "It includes 3 weeks of intensive IELTS training which focuses on the core of skills from Reading, Writing, Listening and Speaking elements. Students will be acquainted with the necessary skills and techniques to excel in IELTS examinations.",
         "image": "https://cdn-icons-png.flaticon.com/512/3203/3203214.png"
     },

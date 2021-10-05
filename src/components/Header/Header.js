@@ -1,12 +1,12 @@
 import React from 'react';
-import { Image, Nav } from 'react-bootstrap';
+import { Nav } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
 
 const Header = () => {
     return (
         <div className="container d-flex py-5">
-            <div>
-                <Image src="http://www.thetahmid.com/themes/edulyn-v1.0/assets/images/logo.png" />
+            <div className="logo" >
+                <p className="fs-1 text fw-bold text-primary">IELTS CARE</p>
             </div>
             <div className="ms-auto fw-bold text-dark px-3">
                 <Nav variant="pills" defaultActiveKey="/home">
