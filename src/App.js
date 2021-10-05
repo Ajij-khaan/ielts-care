@@ -20,10 +20,14 @@ function App() {
       <BrowserRouter>
         <Header></Header>
         <Switch>
-          <Route path="/home">
+
+          <Route exact path="/">
             <Home></Home>
           </Route>
 
+          <Route path="/home">
+            <Home></Home>
+          </Route>
           <Route path="/services">
             <Services></Services>
           </Route>
@@ -47,7 +51,6 @@ function App() {
           <Route path="*">
             <Error404></Error404>
           </Route>
-
 
         </Switch>
         <Footer></Footer>

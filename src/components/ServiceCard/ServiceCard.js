@@ -8,6 +8,7 @@ const ServiceCard = (props) => {
 
     return (
         <div>
+
             <Card className="border border-1 border-primary bg-light shadow-sm ">
                 <div className="text-center pt-3 ">
                     <Card.Img variant="top" src={image} className="imgSize" />

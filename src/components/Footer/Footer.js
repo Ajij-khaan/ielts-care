@@ -7,7 +7,6 @@ const Footer = () => {
     return (
         <div className="bg-dark py-3 mt-5">
             <Container>
-
                 <Row>
                     <Col className="imgSize">
                         <img src="https://web.programming-hero.com/static/media/ssl-commerce.1d268dce.png" alt="" />
@@ -22,7 +21,7 @@ const Footer = () => {
                         </div>
                     </Col>
                 </Row>
-                <p className="text-white">© 2017-2020 IELTS Care</p>
+                <p className="text-white">© 2000-2021 IELTS Care</p>
 
             </Container>
         </div>
