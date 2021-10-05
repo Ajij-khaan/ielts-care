@@ -8,7 +8,7 @@ const Footer = () => {
             <div className="bg-dark py-3 mt-5">
                 <Row>
                     <Col>
-                        <img src="https://web.programming-hero.com/static/media/ssl-commerce.1d268dce.png" />
+                        <img src="https://web.programming-hero.com/static/media/ssl-commerce.1d268dce.png" alt="" />
                     </Col>
                     <Col className="d-flex align-items-center justify-content-center ">
                         <div >

@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 
 const Header = () => {
     return (
-        <div className="container d-flex py-4">
+        <div className="container d-flex py-5">
             <div>
                 <Image src="http://www.thetahmid.com/themes/edulyn-v1.0/assets/images/logo.png" />
             </div>
@@ -17,10 +17,10 @@ const Header = () => {
                         <Nav.Link as={NavLink} to="/services">SERVICES</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                        <Nav.Link as={NavLink} to="/about">ABOUT</Nav.Link>
+                        <Nav.Link as={NavLink} to="/blogs">BLOGS</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                        <Nav.Link as={NavLink} to="/blogs">BLOGS</Nav.Link>
+                        <Nav.Link as={NavLink} to="/about">ABOUT</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
                         <Nav.Link as={NavLink} to="/contact">CONTACT</Nav.Link>

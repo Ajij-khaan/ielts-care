@@ -13,6 +13,7 @@ const Services = () => {
     }, [])
 
 
+
     return (
         <div>
             <div>
@@ -22,7 +23,7 @@ const Services = () => {
             <div className="container">
                 <Row xs={1} md={2} className="g-4">
                     {
-                        data.map(service => <ServiceCard service={service}></ServiceCard>)
+                        data.map(service => <ServiceCard key={service.id} service={service}></ServiceCard>)
                     }
                 </Row>
             </div>

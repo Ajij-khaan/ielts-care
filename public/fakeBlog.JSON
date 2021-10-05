@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Useful Vocabulary for Writing an IELTS Graph Essay",
+        "category": "IELTS STUDY PLANS",
+        "author": " Eliot Friesen",
+        "image": "https://magoosh.com/ielts/files/2021/04/image-ielts-featuredImage-wordsphrases.jpg.webp"
+    },
+    {
+        "id": 2,
+        "title": "Complete Guide to IELTS Speaking",
+        "category": "IELTS SPEAKING",
+        "author": " David Recine",
+        "image": "https://magoosh.com/ielts/files/2017/08/ielts-speaking-featured-image-2.jpg.webp"
+    },
+    {
+        "id": 3,
+        "title": "Academic IELTS vs General Training IELTS: What’s the Difference?",
+        "category": "IELTS FAq",
+        "author": "Trisha Alcisto",
+        "image": "https://magoosh.com/ielts/files/2016/02/IELTSacademicVsGeneral_featured-image-200.jpg.webp"
+    },
+    {
+        "id": 4,
+        "title": "IELTS Study Guide",
+        "category": "IELTS STUDY PLANS",
+        "author": " Eliot Friesen",
+        "image": "https://magoosh.com/ielts/files/2016/04/IELTSstudyGuide_featured-image-200.jpg.webp"
+    },
+    {
+        "id": 5,
+        "title": "Free IELTS Practice Test: PDFs and More",
+        "category": "IELTS PRACTICE TEST",
+        "author": "David Recine",
+        "image": "https://magoosh.com/ielts/files/2016/04/IELTSstudyGuide_featured-image-200.jpg.webp"
+    },
+    {
+        "id": 6,
+        "title": "IELTS Academic Writing Task 1: The Complete Guide",
+        "category": "WRITING TASK 1",
+        "author": " Eliot Friesen",
+        "image": "https://magoosh.com/ielts/files/2017/05/IELTStask1_featured-image-200.jpg.webp"
+    },
+    {
+        "id": 7,
+        "title": "IELTS Writing Task 2: The Complete Guide",
+        "category": "WRITING TASK 2",
+        "author": " Eliot Friesen",
+        "image": "https://magoosh.com/ielts/files/2017/06/IELTStask2_featured-image-200.jpg.webp"
+    },
+    {
+        "id": 8,
+        "title": "Complete Guide to IELTS Listening",
+        "category": "IELTS LISTENING",
+        "author": " Eliot Friesen",
+        "image": "https://magoosh.com/ielts/files/2017/06/IELTSlistening_featured-image-200.jpg.webp"
+    },
+    {
+        "id": 9,
+        "title": "The Complete Guide to IELTS Reading",
+        "category": "IELTS Reading",
+        "author": " Eliot Friesen",
+        "image": "https://magoosh.com/ielts/files/2017/09/IELTSreading_featured-image-200.jpg.webp"
+    }
+]

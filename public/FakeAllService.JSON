@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "IELTS Online Regular Course",
+        "title": "IELTS Regular Course (Online)",
         "duration": "3 Months",
         "description": "The IELTS course puts equal weight on reading writing, listening, speaking and test taking strategies. The course also covers sub skills such as academic vocabulary, academic style and study skills each day. ... If the student places at Level 4 they are eligible for IELTS.",
         "image": "https://cdn-icons-png.flaticon.com/512/747/747327.png"
@@ -28,31 +28,31 @@
         "image": "https://cdn-icons-png.flaticon.com/512/171/171322.png"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "IELTS Crash Course (Offline)",
         "duration": "3 Months",
         "description": "It includes 3 weeks of intensive IELTS training which focuses on the core of skills from Reading, Writing, Listening and Speaking elements. Students will be acquainted with the necessary skills and techniques to excel in IELTS examinations.",
         "image": "https://cdn-icons-png.flaticon.com/512/3203/3203214.png"
     },
     {
-        "id": 4,
+        "id": 6,
         "title": "IELTS Life Skills (Online)",
         "duration": "3 Months",
         "description": "This course is designed for beginner to upper-intermediate students. It offers a great foundation if you’re looking to progress to outcome-focused courses such as IELTS, Cambridge and Academic English. It's your great oppurtunity. Don't Miss it",
         "image": "https://cdn-icons-png.flaticon.com/512/4287/4287352.png"
     },
     {
-        "id": 4,
+        "id": 7,
         "title": "Mock Test (Offline)",
-        "duration": "3 Months",
+        "duration": "1 Month Free",
         "description": "We strongly advise test takers to practice IELTS. By taking our free practice tests, you will get to know the test format, experience the types of tasks you will be asked to undertake, test yourself and review your answers and compare them with model answers.",
-        "image": "https://img-premium.flaticon.com/png/512/527/premium/527989.png?token=exp=1633366348~hmac=f52e94479cc146cff09cee08557d6a17"
+        "image": "https://cdn-icons-png.flaticon.com/512/27/27130.png"
     },
     {
-        "id": 4,
+        "id": 8,
         "title": "Online Support 24/7",
-        "duration": "3 Months",
-        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.Lorem ipsum, dolor sit amet consectetur adipisicing elit.Sequi, illum.",
+        "duration": "Always",
+        "description": "To make students happy, you need conversational experiences—connected communication across any channel.",
         "image": "https://cdn-icons-png.flaticon.com/512/1067/1067566.png"
     }
 ]

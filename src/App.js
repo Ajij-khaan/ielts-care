@@ -3,19 +3,15 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './components/Header/Header';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Home from './components/Home/Home';
-import Blogs from './components/Blogs/Blogs';
 import Services from './components/Services/Services';
 import Contact from './components/Contact/Contact';
 import About from './components/About/About';
 import Footer from './components/Footer/Footer';
 import ComingSoon from './components/CommingSoon/ComingSoon';
-
+import Blogs from './components/Blogs/Blogs';
 
 
 function App() {
-
-
-
 
   return (
     <div className="App">
@@ -39,7 +35,6 @@ function App() {
             <Blogs></Blogs>
           </Route>
 
-
           <Route path="/contact">
             <Contact></Contact>
           </Route>
@@ -50,6 +45,7 @@ function App() {
 
         </Switch>
         <Footer></Footer>
+
       </BrowserRouter>
     </div>
   );
